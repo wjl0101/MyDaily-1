@@ -27,7 +27,7 @@ jobs:
     
       - name: run
         env:
-          PASSWORD: secrets.PASSWORD
-          STD_ID: secrets.STD_ID
-          SENDKEY: secrets.SENDKEY
+          PASSWORD: ${{secrets.PASSWORD}}
+          STD_ID: ${{secrets.STD_ID}}
+          SENDKEY: ${{secrets.SENDKEY}}
         run:  python3 main.py
