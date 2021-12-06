@@ -1,0 +1,6 @@
+lxml
+numpy
+pillow
+requests
+easyocr
+bs4
