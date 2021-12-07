@@ -1,4 +1,4 @@
-# 😈自动打卡平安复旦脚本(作弊)
+# 😈自动打卡平安复旦脚本
 
 ## 简介📖
 这个项目是Follow这个[工作](https://github.com/ZiYang-xie/Hello_Fudan)，做了一点小小的改动。
