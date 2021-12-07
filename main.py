@@ -15,6 +15,5 @@ print(uid,psw,send_key)
 connection = FudanConnection(
     uid, psw, send_key)
 connection.login()
-connection.get_verify_code()
 connection.check_in()
 connection.close()
